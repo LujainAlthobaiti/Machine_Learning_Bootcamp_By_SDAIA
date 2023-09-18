@@ -9,3 +9,7 @@ This file will encompass all of my assignments throughout this camp.
 **- Linear Regression for Diabetes Prediction:**  <br>
     
    In this project, we'll utilize the built-in "Diabetes" dataset from scikit-learn, which contains measures relevant to the physiological and diagnostic aspects of diabetes illness. To determine the diagnosis, it has 10 numerical characteristics.
+
+**- Predictive Modeling using Linear Regression:** <be>
+   
+   In this project, we will create a linear regression model based on several factors to forecast the median house values in California. The objective is to develop an accurate prediction model that can estimate median house prices for various areas in California by examining and analyzing the dataset, conducting data cleaning and preprocessing, fitting a linear regression model, and assessing its performance.
