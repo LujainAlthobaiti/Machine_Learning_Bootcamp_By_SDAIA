@@ -24,4 +24,10 @@ This file will encompass all of my assignments throughout this camp.
 
 **- Covid19_Detector:** <be>
 
-  We will Detection COVID 19 using Logistic Regression in this project.
+  We will detect COVID-19 using Logistic Regression in this project.
+
+**- A fusion of multi linear & Logistic Regression:** <be>
+
+  As part of this task, we'll create a model to the dataset is an artificial collection of characteristics connected to houses and their associated costs to estimate their cost.
+
+  
