@@ -21,3 +21,7 @@ This file will encompass all of my assignments throughout this camp.
 **- Estimating Insurance Expenses:** <be>
 
   In this project, we'll create a model to estimate a patient's treatment costs depending on their age, sex, BMI, and other factors.
+
+**- Covid19_Detector:** <be>
+
+  We will Detection COVID 19 using Logistic Regression in this project.
