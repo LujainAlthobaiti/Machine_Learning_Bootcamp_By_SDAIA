@@ -30,7 +30,7 @@ This file will encompass all of my assignments throughout this camp.
 
   As part of this task, we'll create a model to the dataset is an artificial collection of characteristics connected to houses and their associated costs to estimate their cost.
 
-**- A Naive Prediction of Swine Flu:** <be>
+**- A Naive Prediction of Swine Flu and Decision Trees for Swine Flu Detection:** <be>
 
   In this quick project, we'll work with a dataset on swine flu that determines a person's flu status based on the symptoms they're exhibiting.
   
