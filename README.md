@@ -39,3 +39,7 @@ This file will encompass all of my assignments throughout this camp.
 **- SVM_for_Tumor_Detection:** <be>
 
   In this task, we'll use the Support Vector Machine approach to train a machine learning model to create a classification model on a dataset of breast cancer cases.
+
+**- Model_Evaluation:** <be>
+
+  In this assignment, we'll create and assess a number of models that can forecast whether a person survived the Titanic disaster or not.
