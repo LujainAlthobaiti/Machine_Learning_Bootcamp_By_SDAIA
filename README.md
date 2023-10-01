@@ -35,4 +35,7 @@ This file will encompass all of my assignments throughout this camp.
 **- Decision Trees for Swine Flu Detection:** <be>
 
   In this quick project, we'll work with a dataset on swine flu that determines a person's flu status based on the symptoms they're exhibiting.
-  
+
+**- SVM_for_Tumor_Detection:** <be>
+
+  In this task, we'll use the Support Vector Machine approach to train a machine learning model to create a classification model on a dataset of breast cancer cases.
