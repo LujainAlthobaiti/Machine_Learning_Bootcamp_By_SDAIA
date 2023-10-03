@@ -43,3 +43,7 @@ This file will encompass all of my assignments throughout this camp.
 **- Model_Evaluation:** <be>
 
   In this assignment, we'll create and assess a number of models that can forecast whether a person survived the Titanic disaster or not.
+
+**- Overcoming_Model_Related_Challenges:** <be>
+
+  This project's goal is to develop and assess several models that can be used to foretell whether a person survived the Titanic disaster or not.
