@@ -47,3 +47,7 @@ This file will encompass all of my assignments throughout this camp.
 **- Overcoming_Model_Related_Challenges:** <be>
 
   This project's goal is to develop and assess several models that can be used to foretell whether a person survived the Titanic disaster or not.
+
+**- A_Better_Smoker_Detector:** <be>
+
+  In this project, we will not only attempt to predict whether or not a person smokes based on all the other dataset attributes, but also to do it as accurately as feasible. As a result, we will construct, assess, and enhance your model.
