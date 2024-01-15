@@ -1,4 +1,4 @@
-# Machine_Learning_Bootcamp_By_SDAYA
+# Machine_Learning_Bootcamp_By_SDAIA
 This file will encompass all of my assignments throughout this camp.
 
 # Countent:
